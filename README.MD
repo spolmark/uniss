@@ -6,7 +6,7 @@
 
 ---
 
-🔔 <b>Subscribe to me:</b> https://t.me/sybilwave
+
 
 🤑 <b>Donate me:</b>
 
@@ -18,7 +18,7 @@
 <h2>🚀 Instalation</h2>
 
 ```bash
-git clone https://github.com/sybilwave/unisat.git
+git clone https://github.com/spolmark/unisat.git
 
 cd unisat
 
@@ -48,4 +48,3 @@ npm run start
 6. Points checker (run in cmd: npm run checker)
 
 ---
-Look for all updates and other developments here –– https://t.me/sybilwave
